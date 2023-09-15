@@ -18,7 +18,7 @@ _Você deve ter o `Node.js` instalado. Caso não tenha, [clique aqui e faça a i
 - Clone este projeto, executando o seguinte comando:
 
 > ```properties
-> git clone https://github.com/julianosill/nlwia-foundations.git
+> git clone https://github.com/RenatoCoimbra/nlwia-foundations.git
 > ```
 
 - Entre na pasta do projeto e instale as dependências necessárias:
