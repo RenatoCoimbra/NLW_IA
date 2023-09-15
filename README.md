@@ -1,8 +1,10 @@
-# Shorts Deaf Helper :: Full Stack Application
+# Shorts Deaf Helper : Full Stack Application
 
 ![Imagem de um MacBook com a tela inicial da aplicação aberta](github/readme-presentation.png)
 
 Aplicação desenvolvida durante a 13ª edição do NLW (Next Level Week), focada no desenvolvimento e integração com IA (Inteligência Artificial), realizada pela Rocketseat. Neste evento, realizei o desenvolvimento Full Stack de toda a aplicação, através de tecnologias como `HTML`, `CSS`, `Javascript`, `Node.js`, entre outras.
+
+Software reponsável pela transcrição e resumo de áudios removidos de shorts do Youtube.
 
 ## Tecnologias utilizadas
 
